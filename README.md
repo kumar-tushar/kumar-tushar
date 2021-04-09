@@ -83,11 +83,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><th valign="top" width="50%" >
+</th><th valign="top" width="50%" >
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact"  style="width: 100%"/>
 
-</td></tr></table>
+</th></tr></table>
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
