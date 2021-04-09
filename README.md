@@ -83,7 +83,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" >
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
