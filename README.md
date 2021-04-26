@@ -64,8 +64,8 @@
 
 ## Get Connected! 
 <div align="center">
-<a href="https://www.linkedin.com/in/kumar-tushar" target="_blank" style="border-radius: 50px">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; border-radius: 50%" />
+<a href="https://www.linkedin.com/in/kumar-tushar" target="_blank" >
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="border-radius: 50%" />
 </a>
 <a href="mailto:kumartushar0110@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
