@@ -81,7 +81,7 @@
 ### Github Stats
 <table><tr><th valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true" align="center" style="color: #0D1117; background-color: #0D1117" />
 
 </th><th valign="top" width="50%" >
 
