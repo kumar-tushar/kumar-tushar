@@ -85,7 +85,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" align="center" style="width: 100%"/>    
     </th>
     <th valign="top" width="50%" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact" align="center" style="width: 100%"/>      </th>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact&theme=tokyonight" align="center" style="width: 100%"/>      </th>
   </tr>
 </table>
 
