@@ -79,15 +79,17 @@
 <br/>  
 
 ### Github Stats
-<table><tr><th valign="top" width="50%">
+<table>
+  <tr>
+    <th valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" align="center" />
+    </th>
+    <th valign="top" width="50%" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact" align="center" style="width: 100%"/>      </th>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=rgba(255, 255, 255, .9)" align="center" />
 
-</th><th valign="top" width="50%" >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&hide_border=true&layout=compact" align="center" style="width: 100%"/>
-
-</th></tr></table>
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
