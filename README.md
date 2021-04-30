@@ -81,11 +81,11 @@
 
 ### Github Stats
 <table align="center">
-    <tr style="color: black; background-color: black">
-        <th style="color: black; background-color: black">
+    <tr>
+        <th>
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
         </th>
-        <th style="color: black; background-color: black">
+        <th>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" alt="#"/ >
         </th>
     </tr>
