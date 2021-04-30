@@ -89,7 +89,7 @@
         <div class="col-md-2">
       </div>
         <div class="col-md-5 col-sm-auto">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="100%" width="100%" alt="#"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="100%" alt="#"/>
       </div>
   </div>
 </div>
