@@ -80,7 +80,7 @@
 <br/>  
 
 ### Github Stats
-<table align="center">
+<table align="center" style="border: none">
     <tr>
         <th>
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
