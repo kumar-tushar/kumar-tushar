@@ -79,15 +79,20 @@
 <br/>  
 
 ### Github Stats
-<table>
-  <tr>
-    <th valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" align="center" style="width: 100%"/>    
-    </th>
-    <th valign="top" width="50%" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" align="center" style="width: 100%"/>      </th>
-  </tr>
-</table>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5 col-sm-auto">
+            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" height="100%"   alt="#"/>
+      </div>
+        <div class="col-md-2">
+      </div>
+        <div class="col-md-5 col-sm-auto">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="100%" width="100%" alt="#"/>
+      </div>
+  </div>
+</div>
 
 
 <br/>
