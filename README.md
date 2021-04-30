@@ -83,10 +83,10 @@
 <table>
     <tr>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"  alt="#"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
         </th>
         <th >
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" width="309%" alt="#"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" alt="#"/>
         </th>
     </tr>
 </table>
