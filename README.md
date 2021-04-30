@@ -76,10 +76,8 @@
 </a>
 </div>  
   
+##  
 
-<br/>  
-
-## Github Stats
 <table align="center">
     <tr>
         <th>
