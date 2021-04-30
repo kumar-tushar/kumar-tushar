@@ -80,17 +80,14 @@
 
 ### Github Stats
 
-
 <div class="container">
-    <div class="row">
-        <div class="col-md-auto col-sm-auto">
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" height="100%"   alt="#"/>
-      </div>
-        <div class="col-md-auto">
-      </div>
-        <div class="col-md-auto col-sm-auto">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="100%" alt="#"/>
-      </div>
+  <div class="row">
+    <div >
+      <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" height="100%"   alt="#"/>
+    </div>
+    <div >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="100%" alt="#"/>
+    </div>
   </div>
 </div>
 
