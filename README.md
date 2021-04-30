@@ -83,16 +83,16 @@
 <table align="center">
     <tr>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"/>
         </th>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" alt="#"/ >
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" height="500%"/>
         </th>
     </tr>
 </table>
 
-
 <br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
 </div>
