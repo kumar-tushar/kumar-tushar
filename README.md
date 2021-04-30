@@ -80,12 +80,12 @@
 <br/>  
 
 ### Github Stats
-<table align="center" style="border: none">
-    <tr style="border: none">
-        <th style="border: none">
+<table align="center">
+    <tr style="color: black; background-color: black">
+        <th style="color: black; background-color: black">
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
         </th>
-        <th>
+        <th style="color: black; background-color: black">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight" alt="#"/ >
         </th>
     </tr>
