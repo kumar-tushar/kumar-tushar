@@ -81,8 +81,8 @@
 
 ### Github Stats
 <table align="center" style="border: none">
-    <tr>
-        <th>
+    <tr style="border: none">
+        <th style="border: none">
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" alt="#"/>
         </th>
         <th>
