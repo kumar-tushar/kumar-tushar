@@ -34,10 +34,10 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="40px" height="40px"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="40px" height="40px"></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="40px" height="40px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" width="40px" height="40px"></a>
+<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" width="40px" height="40px"></a>
 
 
-
- <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="25px" height="25px"></a>
  <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
