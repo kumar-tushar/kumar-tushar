@@ -81,6 +81,7 @@
 
 #
 <br>
+<br>
 <table align="center">
     <tr>
         <th>
@@ -95,7 +96,6 @@
 
 
 #
-<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
 </div>
