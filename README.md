@@ -33,7 +33,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="40px" height="40px"></a>
         <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="40px" height="40px"></a>
         <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="40px" height="40px"></a>
-        <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="50px" height="50px"></a>
+        <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="50px" height="40px"></a>
         <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" width="40px" height="40px"></a>
         <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" width="40px" height="40px"></a>
         <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" width="40px" height="40px"></a>
