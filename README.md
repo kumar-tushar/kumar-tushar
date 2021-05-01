@@ -1,18 +1,10 @@
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 <div align="center">
 <img src="image.png" align="center" height="65%" width="75%" />
 </div>
   
 
-### <div align="center">I'm Tushar, a full-stack developer 👨‍💻 working remotely since 20 🚀</div>  
-  
-
-- 🔭 I’m a tech lover, I do Full-Stack Web Development & Software Development.  
-  
-
-- 🌱  I’m currently learning Competitive Programming 
   
 <br/>  
 
