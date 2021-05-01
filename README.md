@@ -70,10 +70,10 @@
 <br>
 <table align="center">
     <tr>
-        <th width="50%" height="60%" >
+        <th width="50%"  >
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="50%" height="60%"  />
         </th>
-        <th width="50%" height="400px" >
+        <th width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=8&layout=compact&theme=tokyonight" width="50%" height="60%"  />
         </th>
     </tr>
