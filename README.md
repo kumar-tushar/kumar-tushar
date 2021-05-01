@@ -72,7 +72,7 @@
 <a href="mailto:kumartushar0110@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.facebook.com/reach2tushar" target="_blank">
+<a href="https://www.facebook.com/reach2tushar" target="_new">
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
 </a>
 </div>   
