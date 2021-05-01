@@ -63,7 +63,7 @@
 
 <br/>  
 
-## Get Connected! 
+
 <br>
 <div align="center">
 <a href="https://linkedin.com/in/kumar-tushar" target="_blank">
@@ -87,7 +87,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"/>
         </th>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=6&layout=compact&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=8&layout=compact&theme=tokyonight"/>
         </th>
     </tr>
 </table>
