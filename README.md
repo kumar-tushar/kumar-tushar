@@ -14,9 +14,11 @@
 
 - 🌱  I’m currently learning Competitive Programming 
   
-  
 <br/>  
+
 #
+<br>
+<br>
 <table>
   <tr>
     <th>
