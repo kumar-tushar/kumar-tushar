@@ -28,7 +28,7 @@
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" width="50px" height="50px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap 4"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" width="50px" height="50px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap 4"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" width="40px" height="40px"></a>
 
 
  <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="25px" height="25px"></a>
