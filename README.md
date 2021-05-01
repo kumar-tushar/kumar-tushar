@@ -19,24 +19,37 @@
 #
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <th>
+      
+  <p align="center">
+  <i>Programming Languages &nbsp&nbsp&nbsp || &nbsp&nbsp&nbsp Tools || &nbsp&nbsp&nbsp Packages</i>
+<p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
+ <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a>
+ <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="25px" height="25px"></a>
+ <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="25px" height="25px"></a>
+ <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"></a>
+ <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="25px" height="25px"></a>
+ <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
+ <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="25px" height="25px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
+<a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="25px" height="25px"></a>
 
-
-
-
-
-
-
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-
-
-</td></tr></table>  
+</p>
+  <br>
+</p>
+      
+      
+      
+      
+      
+      
+   </th>
+  </tr>
+</table>  
 
 <br/>  
 
