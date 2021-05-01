@@ -33,9 +33,12 @@
         <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
         <a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="40px" height="40px"></a>
         <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="40px" height="40px"></a>
+        <a href="https://netbeans.apache.org/" title="NetBeans"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" width="40px" height="40px"></a>
         <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="40px" height="40px"></a>
         <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" width="40px" height="40px"></a>
         <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webstorm.svg" width="40px" height="40px"></a>
+        <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" width="40px" height="40px"></a>
+
         <br>
       </p>
     </th>
