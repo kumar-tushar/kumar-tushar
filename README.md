@@ -71,10 +71,10 @@
 <table align="center">
     <tr>
         <th width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" />
+            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="100%"/>
         </th>
         <th width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=8&layout=compact&theme=tokyonight"  height="158px"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=8&layout=compact&theme=tokyonight" width="100%" height="158px"/>
         </th>
     </tr>
 </table>
