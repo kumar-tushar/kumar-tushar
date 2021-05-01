@@ -71,7 +71,7 @@
 <table align="center">
     <tr>
         <th width="50%" height="80px" >
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="110%"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="120%"/>
         </th>
         <th width="50%" height="100px">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=8&layout=compact&theme=tokyonight" width="110%"/>
