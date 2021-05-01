@@ -66,13 +66,13 @@
 #
 <br>
 <div align="center">
-<a href="https://linkedin.com/in/kumar-tushar">
+<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:kumartushar0110@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.facebook.com/reach2tushar" target="_new">
+<a href="https://www.facebook.com/reach2tushar" target="_blank">
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
 </a>
 </div>   
@@ -90,9 +90,10 @@
         </th>
     </tr>
 </table>
+<br>
 
 
-
+#
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
 </div>
