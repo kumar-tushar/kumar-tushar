@@ -3,9 +3,6 @@
 <div align="center">
 <img src="image.png" align="center" height="65%" width="75%" />
 </div>
-  
-
-  
 <br/>  
 
 
@@ -44,6 +41,7 @@
   </tr>
 </table>  
 <br/>  
+
 
 
 #
