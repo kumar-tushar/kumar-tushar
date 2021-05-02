@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <th>
-      <span style="text-decoration-color: aqua">Skills</span> 
+      <span style="background-color: aquamarine">Skills</span> 
     <p align="left">Skills</p>
       <p align="center">
         <br>
