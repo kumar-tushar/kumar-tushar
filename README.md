@@ -9,8 +9,8 @@
 <br>
 <br>
 <table align="center">
-  <h4>Skills</h4>
   <tr>
+    <h4>Skills</h4>
     <th>
       <p align="center">
         <br>
