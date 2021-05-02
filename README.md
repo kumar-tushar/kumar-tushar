@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <th>
-    <h3 align="left" sstyle="title_color: "70a5fd"; icon_color: "bf91f3"; text_color: "38bdae"; bg_color: "1a1b27"" >Skills</h3>
+    <h3 align="left" sstyle="title_color: "70a5fd"; icon_color: "bf91f3"; text_color: "38bdae"; background-color: "1a1b27"" >Skills</h3>
       <p align="center">
         <br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="40px" height="50px"></a>
