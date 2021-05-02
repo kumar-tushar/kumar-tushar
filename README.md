@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <th>
-    <p align="left" height="10px">Skills</p>
+    <p align="left" height="20px">Skills</p>
       <p align="center">
         <br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="40px" height="50px"></a>
