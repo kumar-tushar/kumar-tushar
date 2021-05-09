@@ -65,17 +65,20 @@
 <br>
 <br>
 <div align="center">
-<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:kumartushar0110@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
 <a href="https://www.facebook.com/reach2tushar" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+<a href="https://www.wa.me/919319121495" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>   
 <br>
