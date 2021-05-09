@@ -92,8 +92,8 @@
 <br>
 <br>
 <table align="center">
-  <tr>
-    <th width="100%">
+  <tr width="100%">
+    <th >
      <div align="center">
         <br>
         <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
