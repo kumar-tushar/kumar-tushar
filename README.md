@@ -77,7 +77,7 @@
 <a href="https://www.facebook.com/reach2tushar" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
-<a href="https://www.wa.me/919319121495" target="_blank">
+<a href="https://wa.me/919319121495" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>   
