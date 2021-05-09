@@ -88,24 +88,15 @@
 
 
 
+
 #
 <br>
 <br>
-<table align="center" width="100%">
-  <tr >
-    <th >
-     <div align="center">
-        <br>
-        <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
-          <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-        </a>
-       <br>
-      </div>
-      <p align="center">
-        <br>
-        <br>
-      </p>
-    </th>
-  </tr>
-</table>  
+<div align="center">
+  <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</div>   
+<br>
+
 
