@@ -11,7 +11,6 @@
 <table align="center">
   <tr>
     <th>
-    <p align="left">Skills</p>
       <p align="center">
         <br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="40px" height="50px"></a>
@@ -65,9 +64,6 @@
 <br>
 <br>
 <div align="center">
-<a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
 <a href="https://linkedin.com/in/kumar-tushar" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -98,11 +94,13 @@
 <table align="center">
   <tr>
     <th>
+      <br>
       <div align="center">
         <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
           <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
         </a>
       </div>
+      <br>
       <p align="center">
         <br>
         <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
