@@ -93,21 +93,16 @@
 <br>
 <table align="center">
   <tr>
-    <th>
-      <br>
-      <div align="center">
+    <th width="100%">
+     <div align="center">
+        <br>
         <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
           <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
         </a>
+       <br>
       </div>
-      <br>
       <p align="center">
         <br>
-        <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
-        <a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="40px" height="40px"></a>
-        <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="40px" height="40px"></a>
-        <a href="https://netbeans.apache.org/" title="NetBeans"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" width="40px" height="40px"></a>
-        <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" width="40px" height="50px"></a>
         <br>
       </p>
     </th>
