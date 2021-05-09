@@ -91,8 +91,8 @@
 #
 <br>
 <br>
-<table align="center">
-  <tr width="100%">
+<table align="center" width="100%">
+  <tr >
     <th >
      <div align="center">
         <br>
