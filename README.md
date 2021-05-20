@@ -8,7 +8,7 @@
 #
 <br>
 <br>
-<table>
+<table align="center">
     <tr>
         <th>
             <p align="center">
