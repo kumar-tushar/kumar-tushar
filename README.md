@@ -35,8 +35,8 @@
                 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" width="40px" height="50px"></a>
                 <br>
             </p>
-        <th>
-    <tr>
+        </th>
+    </tr>
 </table>
 <br/>
 
