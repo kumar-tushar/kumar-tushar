@@ -8,9 +8,10 @@
 #
 <br>
 <br>
+<table align="center">
+    <tr>
+        <th>
             <p align="center">
-                <br>
-                <br>
                 <br>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="40px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" width="40px" height="50px"></a>
@@ -33,10 +34,10 @@
                 <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webstorm.svg" width="40px" height="40px"></a>
                 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" width="40px" height="50px"></a>
                 <br>
-                <br>
-                <br>
             </p>
-
+        </th>
+    </tr>
+</table>
 <br/>
 
 
