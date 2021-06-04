@@ -104,7 +104,7 @@
 <br>
 <div align="center">
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC846?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hackerrank-3EC846?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>   
 <br>
