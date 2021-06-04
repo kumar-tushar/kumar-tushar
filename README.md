@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/kumar-tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-#fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
 </div>   
 <br>
