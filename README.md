@@ -106,7 +106,7 @@
 <br>
 <div align="center">
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-codechef-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-codechef-2EC866?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </div>   
 <br>
