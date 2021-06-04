@@ -88,8 +88,6 @@
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-</div>   
-<div align="center">
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-0000ff?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
