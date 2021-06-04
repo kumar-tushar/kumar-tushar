@@ -91,11 +91,11 @@
    <a href="https://www.hackerearth.com/@kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
   </a>
-   <a href="https://www.codechef.com/users/kumar_tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-8d614f?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+   <a href="https://www.codechef.com/users/kumar_tushar" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-8d614f?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Codeforces-466aa7?style=for-the-badge&logo=Codeforces&logoColor=white" />
