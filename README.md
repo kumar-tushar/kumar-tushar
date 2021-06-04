@@ -99,17 +99,15 @@
 <img src="https://komarev.com/ghpvc/?username=kumar-tushar&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
 </div>
 
-
 #
 <br>
 <br>
 <div align="center">
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-codeforces-2EC866?style=for-the-badge&logo=CodeforceslogoColor=white" />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>   
 <br>
-
 
 
 
