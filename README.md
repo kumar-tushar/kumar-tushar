@@ -85,16 +85,16 @@
 <br>
 <br>
 <div align="center">
+  <a href="https://leetcode.com/kumar-tushar" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
    <a href="https://www.hackerearth.com/@kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/kumar-tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-   <a href="https://www.codechef.com/users/kumar_tushar" target="_blank">
+  <a href="https://www.codechef.com/users/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-8d614f?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/kumar-tushar" target="_blank">
