@@ -64,28 +64,6 @@
 <br>
 <br>
 <div align="center">
-<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kumartushar0110@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
-<a href="https://www.facebook.com/reach2tushar" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/eternalx4u" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</div>   
-<br>
-
-
-
-
-#
-<br>
-<br>
-<div align="center">
   <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
@@ -105,6 +83,18 @@
 <br>
 
 
+#
+<br>
+<br>
+<div align="center">
+<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kumartushar0110@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+</div>   
+<br>
 
 
 #
