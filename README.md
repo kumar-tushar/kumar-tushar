@@ -90,7 +90,7 @@
 <a href="https://linkedin.com/in/kumar-tushar" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:kumartushar0110@gmail.com" target="_blank">
+<a href="mailto:tushar.workplace@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
 </div>   
