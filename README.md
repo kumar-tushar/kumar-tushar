@@ -70,6 +70,9 @@
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
+  <a href="https://www.geeksforgeeks.org/kumar_tushar" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksForGeeks-2EC866?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
+  </a>
 </div>   
 <br>
 
