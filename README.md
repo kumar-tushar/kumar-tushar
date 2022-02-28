@@ -64,14 +64,14 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://leetcode.com/kumar-tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/kumar_tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksForGeeks-2EC866?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
+   <a href="https://leetcode.com/kumar-tushar" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/codingcareer" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksForGeeks-2f8d46?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
   </a>
 </div>   
 <br>
