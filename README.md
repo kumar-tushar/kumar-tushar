@@ -70,7 +70,7 @@
    <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/codingcareer" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/kumartushar/practice" target="_blank">
     <img src="https://img.shields.io/badge/-GeeksForGeeks-2f8d46?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
   </a>
 </div>   
