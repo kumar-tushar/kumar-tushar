@@ -68,10 +68,10 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
    <a href="https://leetcode.com/kumar-tushar" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-fb9c1c?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/kumartushar/practice" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksForGeeks-2f8d46?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
   </a>
 </div>   
 <br>
