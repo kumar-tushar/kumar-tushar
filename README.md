@@ -25,9 +25,7 @@
                 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" width="40px" height="40px"></a>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" width="40px" height="40px"></a>
                 <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" width="40px" height="40px"></a>
-                <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" title="C"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" width="40px" height="40px"></a>
                 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
-                <a href="https://www.python.org/" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="40px" height="40px"></a>
                 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="40px" height="40px"></a>
                 <a href="https://netbeans.apache.org/" title="NetBeans"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" width="40px" height="40px"></a>
                 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="40px" height="40px"></a>
