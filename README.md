@@ -23,6 +23,7 @@
                 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="50px" height="50px"></a>
                 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" width="40px" height="40px"></a>
                 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" width="40px" height="40px"></a>
+                <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" width="40px" height="40px"></a>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" width="40px" height="40px"></a>
                 <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" width="40px" height="40px"></a>
                 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
