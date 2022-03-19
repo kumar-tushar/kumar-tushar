@@ -26,13 +26,9 @@
                 <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" width="40px" height="40px"></a>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" width="40px" height="40px"></a>
                 <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" width="40px" height="40px"></a>
-                <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" width="40px" height="40px"></a>
                 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="40px" height="40px"></a>
-                <a href="https://netbeans.apache.org/" title="NetBeans"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" width="40px" height="40px"></a>
-                <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="40px" height="40px"></a>
                 <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" width="40px" height="40px"></a>
                 <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webstorm.svg" width="40px" height="40px"></a>
-                <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" width="40px" height="50px"></a>
                 <br>
             </p>
         </th>
