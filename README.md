@@ -59,7 +59,7 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://leetcode.com/tushar1793248650" target="_blank">
+  <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://codeforces.com/profile/kumar-tushar" target="_blank">
