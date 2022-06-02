@@ -76,7 +76,7 @@
 <br>
 <br>
 <div align="center">
-<a href="https://linkedin.com/in/kumar-tushar" target="_blank">
+<a href="https://in.linkedin.com/in/kumar-tushar" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:tushar.workplace@gmail.com" target="_blank">
