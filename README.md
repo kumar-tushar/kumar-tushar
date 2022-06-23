@@ -41,7 +41,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="250px" width="400px"/>
 </div>   
 <br>
 
@@ -50,9 +50,10 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="400px"/>
 </div>   
 <br>
+
 
 
 #
