@@ -42,10 +42,10 @@
 <br>
 <div align="center">
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="196px"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="195.5px"  />
   </a>
   <a>
-    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" />
+    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="500px" />
   </a>
 </div>   
 <br>
