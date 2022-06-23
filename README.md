@@ -40,19 +40,19 @@
 #
 <br>
 <br>
-<table align="center">
-    <tr>
-        <th width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" />
-        </th>
-        <th width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=10&layout=compact&theme=tokyonight" height="157px" />
-        </th>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"/>
+</div>   
 <br>
 
 
+#
+<br>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="200px" />
+</div>   
+<br>
 
 
 #
