@@ -1,5 +1,5 @@
 <div align="center">
-<img src="cover.gif" align="center" height="80%" width="100%" />
+<img src="image.mp4" align="center" height="80%" width="100%" />
 </div>
 <br/>  
 
