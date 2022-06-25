@@ -1,5 +1,5 @@
 <div align="center">
-<img src="ezgif.com-gif-maker.gif" align="center" height="50%" width="100%" />
+<img src="cover.gif" align="center" height="50%" width="100%" />
 </div>
 <br/>  
 
