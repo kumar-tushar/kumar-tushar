@@ -5,32 +5,7 @@
 
 
 
-#
-<br>
-<br>
-<table align="center">
-    <tr>
-        <th>
-            <p align="center">
-                <br>
-                <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" width="40px" height="40px"></a>
-                <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="40px" height="40px"></a>
-                <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" width="40px" height="40px"></a>
-                <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" width="40px" height="40px"></a>
-                <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" width="40px" height="40px"></a>
-                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" width="40px" height="40px"></a>
-                <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" width="40px" height="40px"></a>
-                <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="40px" height="40px"></a>
-                <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" width="40px" height="40px"></a>
-                <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webstorm.svg" width="40px" height="40px"></a>
-                <br>
-            </p>
-        </th>
-    </tr>
-</table>
-<br/>
 
-#
 <br>
 <br>
 <table align="center">
@@ -47,7 +22,7 @@
             <p align="center">
                 <br>
                 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="40px" height="40px"></a>
-                <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" width="40px" height="40px"></a>
+                <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" width="40px" height="40px"></a>
                 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" width="40px" height="40px"></a>
                 <br>
             </p>
@@ -58,6 +33,42 @@
                 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="40px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" width="40px" height="50px"></a>
                 <a href="https://getbootstrap.com/" title="Bootstrap 4"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" width="40px" height="40px"></a>
+                <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="40px" height="40px"></a>
+                <br>
+            </p>
+        </th>
+        <th>
+            <p align="center">
+                <br>
+                <a href="https://expressjs.com" title="Express"><img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" width="40px" height="40px" ></a>
+               <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" width="40px" height="40px" ></a> 
+                <br>
+            </p>
+        </th>
+        <th>
+            <p align="center">
+                <br>
+                <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" width="40px" height="40px"></a>
+                <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="40px" height="40px"></a>
+                <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/blob/master/icons/yarn.svg" width="40px" height="40px"></a>
+                <a href="https://nodemon.io/" title="nodemon"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodemon.svg" width="40px" height="40px"></a>
+                <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" width="40px" height="40px"></a>
+                <br>
+            </p>
+        </th>
+        <th>
+            <p align="center">
+                <br>
+                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="40px" height="40px"></a>
+                <a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" width="40px" height="40px"></a>
+                <br>
+            </p>
+        </th>
+        <th>
+            <p align="center">
+                <br>
+                <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" width="40px" height="40px"></a>
+                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" width="40px" height="40px"></a>
                 <br>
             </p>
         </th>
@@ -71,7 +82,7 @@
 
 
 
-#
+
 <br>
 <br>
 <div align="center">
