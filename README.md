@@ -23,7 +23,7 @@
                 <br>
                 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="50px" height="50px"></a>
                 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" width="50px" height="50px"></a>
-                <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" width="50px" height="50px"></a>
+                <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
@@ -67,7 +67,7 @@
         <th>
             <p align="center">
                 <br>
-                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" width="40px" height="50px"></a>
+                <a href="https://www.heroku.com/" title="Heroku"><img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" width="40px" height="50px"></a>
                 <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" width="50px" height="40px"></a>
                 <br>
             </p>
