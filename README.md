@@ -49,7 +49,7 @@
             <p align="center">
                 <br>
                 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" width="50px" height="50px"></a>
-                <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="50px" height="50px"></a>
+                <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="45px" height="50px"></a>
                 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/blob/master/icons/yarn.svg" width="50px" height="50px"></a>
                 <a href="https://nodemon.io/" title="nodemon"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodemon.svg" width="50px" height="50px"></a>
                 <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" width="50px" height="50px"></a>
