@@ -40,7 +40,7 @@
         <th>
             <p align="center">
                 <br>
-                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/express.svg" width="50px" height="50px" ></a>
+                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/express.svg" width="60px" height="70px" ></a>
                <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" width="50px" height="50px" ></a> 
                 <br>
             </p>
@@ -59,16 +59,16 @@
         <th>
             <p align="center">
                 <br>
-                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="40px" height="50px"></a>
-                <a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" width="50px" height="40px"></a>
+                <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="50px" height="50px"></a>
+                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/github-icon.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
         <th>
             <p align="center">
                 <br>
-                <a href="https://www.heroku.com/" title="Heroku"><img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" width="40px" height="50px"></a>
-                <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" width="50px" height="40px"></a>
+                <a href="https://www.heroku.com/" title="Heroku"><img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" width="50px" height="50px"></a>
+                <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
