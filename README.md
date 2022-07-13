@@ -4,8 +4,6 @@
 <br/>  
 
 
-
-
 <br>
 <br>
 <table align="center">
@@ -60,7 +58,7 @@
             <p align="center">
                 <br>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="50px" height="50px"></a>
-                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/github-icon.svg" width="50px" height="50px"></a>
+                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/github.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
@@ -77,12 +75,6 @@
 <br/>
 
 
-
-
-
-
-
-
 <br>
 <br>
 <div align="center">
@@ -94,7 +86,6 @@
   </a>
 </div>   
 <br>
-
 
 
 #
