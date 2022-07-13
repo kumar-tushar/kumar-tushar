@@ -39,7 +39,7 @@
         <th>
             <p align="center">
                 <br>
-                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/express.svg" width="60px" height="70px" ></a>
+                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/express.svg" width="60px" height="70px" ></a>
                <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" width="50px" height="50px" ></a> 
                 <br>
             </p>
@@ -59,7 +59,7 @@
             <p align="center">
                 <br>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="50px" height="50px"></a>
-                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/github.svg" width="50px" height="50px"></a>
+                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/github.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
