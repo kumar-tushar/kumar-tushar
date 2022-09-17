@@ -96,7 +96,7 @@
   <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-  <a href="https://www.codechef.com/users/kumartushar" target="_blank">
+  <a href="https://www.codechef.com/users/coder_tkv" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/kumar_tushar" target="_blank">
