@@ -79,10 +79,10 @@
 <br>
 <div align="center">
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight" width="450px" height="175px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight" width="430px" height="170px" />
   </a>
   <a>
-    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="450px"/>
+    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="430px"/>
   </a>
 </div>   
 <br>
