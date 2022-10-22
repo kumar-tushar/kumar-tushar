@@ -77,12 +77,12 @@
 
 <br>
 <br>
-<div>
+<div align="center">
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight"  height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight" height="175px" />
   </a>
   <a>
-    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" />
+    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="450px"/>
   </a>
 </div>   
 <br>
