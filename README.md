@@ -78,12 +78,14 @@
 <br>
 <br>
 <div align="center">
+<br>
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=10&layout=compact&theme=tokyonight" height="195.5px"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight" height="195.5px"  />
   </a>
   <a>
     <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight"/>
   </a>
+  <br>
 </div>   
 <br>
 
