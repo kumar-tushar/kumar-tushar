@@ -79,7 +79,7 @@
 <br>
 <div align="center">
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=9&layout=compact&theme=tokyonight" width="420px" height="165px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=10&layout=compact&theme=tokyonight" width="420px" height="165px" />
   </a>
   <a>
     <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="420px"/>
