@@ -13,6 +13,7 @@
                 <br>
                 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" width="50px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="50px" height="50px"></a>
+                <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
