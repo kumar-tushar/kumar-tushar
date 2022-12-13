@@ -83,7 +83,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="176px" />
   </a>
   <a>
-    <img img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="450px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="450px"/>
   </a>
 </div>   
 <br>
