@@ -93,7 +93,7 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://leetcode.com/coder_tkv" target="_blank">
+  <a href="https://leetcode.com/kumar-tushar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://www.codechef.com/users/coder_tkv" target="_blank">
