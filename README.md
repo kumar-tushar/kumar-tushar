@@ -32,16 +32,16 @@
                 <br>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="50px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" width="50px" height="50px"></a>
-                <a href="https://getbootstrap.com/" title="Bootstrap 4"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" width="50px" height="50px"></a>
-                <a href="https://mui.com/" title="MUI"><img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" width="50px" height="50px"></a>
-                <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="50px" height="50px"></a>
+                <a href="https://mui.com" title="MUI"><img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" width="50px" height="50px"></a>
+                <a href="https://nextjs.org" title="Next.js"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/next-js.svg" width="70px" height="50px"></a>
+                <a href="https://reactjs.org" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
         <th>
             <p align="center">
                 <br>
-                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/express.svg" width="60px" height="70px" ></a>
+                <a href="https://expressjs.com" title="Express"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/express.svg" width="70px" height="80px" ></a>
                <a href="https://www.djangoproject.com" title="Django"><img src="https://github.com/get-icon/geticon/blob/master/icons/django.svg" width="50px" height="50px" ></a> 
                 <br>
             </p>
