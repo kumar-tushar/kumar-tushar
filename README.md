@@ -52,8 +52,6 @@
                 <br>
                 <a href="https://www.postman.com/" title="Postman"> <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" width="50px" height="50px"></a>
                 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="50px" height="50px"></a>
-                <a href="https://about.gitlab.com" title="GitLab"><img src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" width="50px" height="50px"></a>
-                <a href="https://github.com/" title="GitHub"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/github.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
