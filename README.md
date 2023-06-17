@@ -70,11 +70,17 @@
 <br>
 <br>
 <div align="center">
-   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=14&layout=compact&theme=tokyonight" height="187px" />
-  </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="450px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kumar-tushar&show_icons=true&theme=tokyonight" width="500px"/>
+  </a>
+</div>   
+<br>
+
+<br>
+<br>
+<div align="center">
+   <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=14&layout=compact&theme=tokyonight" height="600px" />
   </a>
 </div>   
 <br>
