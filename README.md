@@ -29,7 +29,7 @@
             <p align="center">
                 <br>
                 <a href="https://reactjs.org" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="50px" height="50px"></a>
-                <a href="https://nextjs.org" title="Next.js"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/next-js.svg" width="70px" height="50px"></a>
+                <a href="https://nextjs.org" title="Next.js"><img src="https://github.com/kumar-tushar/kumar-tushar/blob/main/icons/next-js.svg" width="80px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" width="50px" height="50px"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" width="50px" height="50px"></a>
                 <br>
