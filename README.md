@@ -68,7 +68,7 @@
 <br>
 <div align="center">
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="350px" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-tushar&langs_count=12&layout=compact&theme=tokyonight" height="320px" width="400px"/>
   </a>
 </div>   
 <br>
