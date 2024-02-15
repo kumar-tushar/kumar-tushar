@@ -21,7 +21,6 @@
                 <br>
                 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" width="50px" height="50px"></a>
                 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" width="50px" height="50px"></a>
-                <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" width="50px" height="50px"></a>
                 <br>
             </p>
         </th>
