@@ -1,11 +1,4 @@
 <div align="center">
-<img src="cover.gif" align="center" height="50%" width="100%" />
-</div>
-<br/>  
-
-
-<br>
-<br>
 <table align="center">
     <tr>
         <th>
